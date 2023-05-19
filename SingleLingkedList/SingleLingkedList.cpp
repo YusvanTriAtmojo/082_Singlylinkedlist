@@ -120,3 +120,10 @@ void List::traverse()/*Mengunjungi dan membaca data dalam list*/
 		cout << endl;
 	}
 }
+
+int main()
+{
+	List mhs;
+	int nim;
+	char ch;
+}
